@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "countryName": "Canada",
+      "capital": "Ottawa",
+      "population": 37742154,
+      "interestingFact": "Canada has the longest coastline of any country in the world, stretching over 202,080 kilometers."
+    },
+    {
+      "id": 2,
+      "countryName": "Japan",
+      "capital": "Tokyo",
+      "population": 126476461,
+      "interestingFact": "Japan consists of 14,125 islands, with Honshu being the largest."
+    },
+    {
+      "id": 3,
+      "countryName": "Brazil",
+      "capital": "Brasília",
+      "population": 211049527,
+      "interestingFact": "The Amazon Rainforest in Brazil is the largest tropical rainforest globally, covering over 5.5 million square kilometers."
+    },
+    {
+      "id": 4,
+      "countryName": "Australia",
+      "capital": "Canberra",
+      "population": 25499884,
+      "interestingFact": "Australia is home to more kangaroos than people, with an estimated kangaroo population of 50 million."
+    },
+    {
+      "id": 5,
+      "countryName": "Egypt",
+      "capital": "Cairo",
+      "population": 91250000,
+      "interestingFact": "Egypt's Great Pyramid of Giza is one of the Seven Wonders of the Ancient World and the only one still largely intact."
+    },
+    {
+      "id": 6,
+      "countryName": "France",
+      "capital": "Paris",
+      "population": 67081000,
+      "interestingFact": "France is the world's most visited country, attracting over 89 million tourists annually."
+    },
+    {
+      "id": 7,
+      "countryName": "India",
+      "capital": "New Delhi",
+      "population": 1380004385,
+      "interestingFact": "India is the world's largest democracy, with over 1.3 billion citizens."
+    },
+    {
+      "id": 8,
+      "countryName": "South Africa",
+      "capital": "Pretoria",
+      "population": 59308690,
+      "interestingFact": "South Africa is the only country to have hosted the soccer, cricket, and rugby world cups."
+    },
+    {
+      "id": 9,
+      "countryName": "Russia",
+      "capital": "Moscow",
+      "population": 145912025,
+      "interestingFact": "Russia spans 11 time zones, more than any other country."
+    },
+    {
+      "id": 10,
+      "countryName": "Mexico",
+      "capital": "Mexico City",
+      "population": 128933000,
+      "interestingFact": "Mexico introduced chocolate, chilies, and chilies to the world."
+    }
+  ]
+  

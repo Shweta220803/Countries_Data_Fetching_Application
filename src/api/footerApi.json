@@ -1,0 +1,17 @@
+[
+  {
+    "icon": "MdPlace",
+    "title": "Find Us",
+    "details": "Pune, Maharashtra"
+  },
+  {
+    "icon": "IoCallSharp",
+    "title": "Contact Us",
+    "details": "Phone: 123-456-7890"
+  },
+  {
+    "icon": "TbMailPlus",
+    "title": "Email Us",
+    "details": "Email: contact@example.com"
+  }
+]
